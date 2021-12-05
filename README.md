@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+- 🌱 I’m currently learning  linguagem C, micro-controladores, arduino e esp32, eletrica automotiva, eletronica e automação.
+- 👯 I’m looking to collaborate on ...
+- 💬 Ask me about  N coisas kk
+- 📫 How to reach me:  redes social instagram.com/fabioserrao18, youtube.com/fabioserrao 
+
+
