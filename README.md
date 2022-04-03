@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about  N coisas kk
 - 📫 How to reach me:  redes social instagram.com/fabioserrao18, youtube.com/fabioserrao 
 
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabioserrao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioserrao&layout=compact&langs_count=7&theme=dracula"/>
